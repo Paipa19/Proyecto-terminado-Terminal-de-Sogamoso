@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\models\\ArchivosTestTest::testInsert":3,"Tests\\Unit\\models\\ArchivosTest::testInsert":3,"Tests\\Unit\\models\\ComprobantesTest::testInsert":4},"times":{"Tests\\Unit\\models\\ArchivosTestTest::testInsert":0.188,"Tests\\Unit\\models\\ArchivosTest::testInsert":0.123,"Tests\\Unit\\models\\ComprobantesTest::testInsert":0.037}}

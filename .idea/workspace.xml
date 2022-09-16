@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d02f067-56e2-46f9-9b2e-033f593b95ff" name="Changes" comment="Archivos del sistema del terminal avance">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9a71fb61-f5e4-4038-81fe-f0a9c7a40cc4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9a71fb61-f5e4-4038-81fe-f0a9c7a40cc4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9a71fb61-f5e4-4038-81fe-f0a9c7a40cc4/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9a71fb61-f5e4-4038-81fe-f0a9c7a40cc4/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/ArchiverosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/ArchiverosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/ArchivosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/ArchivosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/DocumentosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/DocumentosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/EgresosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/EgresosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/EmpleadosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/EmpleadosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/IngresosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/IngresosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/RegistrosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/RegistrosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/SegurosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/SegurosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/TalentosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/TalentosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/UsuariosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/UsuariosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Archiveros.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Archiveros.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Ingresos.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Ingresos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Registros.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Registros.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Usuarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Usuarios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/MANUAL USUARIO.docx" beforeDir="false" afterPath="$PROJECT_DIR$/database/MANUAL USUARIO.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/MANUAL USUARIO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/database/MANUAL USUARIO.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/MER Base de datos.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/MER Base de datos.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/MER.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Modelo Entidad-Relación.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/MySQL Modelo.mwb" beforeDir="false" afterPath="$PROJECT_DIR$/database/MySQL Modelo.mwb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/MySQL Modelo.mwb.bak" beforeDir="false" afterPath="$PROJECT_DIR$/database/MySQL Modelo.mwb.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Requerimientos del software terminal.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/database/Requerimientos del software terminal.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Requerimientos del software.docx" beforeDir="false" afterPath="$PROJECT_DIR$/database/Requerimientos del software.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Requerimientos del software.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/database/Requerimientos del software.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/SCRIPT ACTUALIZADO 17-06-2022.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Script BD Mysql.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Script BD Mysql.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Script BD Terminal.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/TERMINAL DE TRANPOSTES SCRIPT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/database.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/script nuevo.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/script nuevo.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/filtroBusqueda.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/filtroBusqueda.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/logs/general.log" beforeDir="false" afterPath="$PROJECT_DIR$/resources/logs/general.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/HistoriasLaboralesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/HistoriasLaboralesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/archiveros/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/archiveros/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/archiveros/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/archiveros/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/archiveros/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/archiveros/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/archiveros/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/archiveros/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/archivos/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/archivos/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/archivos/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/archivos/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/archivos/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/archivos/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/archivos/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/archivos/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/documentos/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/documentos/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/documentos/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/documentos/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/documentos/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/documentos/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/documentos/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/documentos/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/egresos/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/egresos/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/egresos/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/egresos/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/egresos/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/egresos/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/egresos/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/egresos/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/empleados/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/empleados/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/empleados/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/empleados/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/empleados/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/empleados/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/empleados/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/empleados/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/ingresos/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/ingresos/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/ingresos/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/ingresos/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/ingresos/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/ingresos/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/ingresos/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/ingresos/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/integrantes/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/integrantes/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/integrantes/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/integrantes/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/integrantes/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/integrantes/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/integrantes/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/integrantes/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/libros/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/libros/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/libros/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/libros/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/libros/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/libros/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/libros/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/libros/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/registros/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/registros/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/registros/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/registros/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/registros/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/registros/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/registros/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/registros/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/seguros/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/seguros/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/seguros/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/seguros/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/seguros/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/seguros/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/seguros/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/seguros/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/talentos/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/talentos/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/talentos/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/talentos/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/talentos/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/talentos/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/talentos/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/talentos/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/usuarios/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/usuarios/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/usuarios/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/usuarios/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/usuarios/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/usuarios/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/usuarios/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/usuarios/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/datatables_scripts.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/datatables_scripts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/head_imports.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/head_imports.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/navbar_customization.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/navbar_customization.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/scripts.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/scripts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/sliderbar_main_menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/public/Spanish.json" beforeDir="false" afterPath="$PROJECT_DIR$/views/public/Spanish.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/public/css/estilo_filtro.css" beforeDir="false" afterPath="$PROJECT_DIR$/views/public/css/estilo_filtro.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/views/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/public/js/filtroBusqueda.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/views/public/js/filtroBusqueda.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte" />
+      <path value="$PROJECT_DIR$/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/tgalopin/html-sanitizer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-parser" />
+      <path value="$PROJECT_DIR$/vendor/verot/class.upload.php" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="26sxJTQLfcv6GD4Ap5MHqZb0BhX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\laragon\www\terminal\views\modules" />
+      <recent name="D:\laragon\www\terminal\views\modules\integrantes" />
+      <recent name="D:\laragon\www\terminal\views\modules\seguros" />
+      <recent name="D:\laragon\www\terminal\views\modules\archiveros" />
+      <recent name="D:\laragon\www\terminal\views\modules\site" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\laragon\www\terminal\resources\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.HistoriasLaboralesTest">
+    <configuration name="ArchivosTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 8.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Unit\models\ArchivosTest" file="$PROJECT_DIR$/tests/Unit/ArchivosTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ComprobantesTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 8.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Unit\models\ComprobantesTest" file="$PROJECT_DIR$/tests/Unit/ComprobantesTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ComprobantesTest.testInsert" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 8.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Unit\models\ComprobantesTest" file="$PROJECT_DIR$/tests/Unit/ComprobantesTest.php" method="testInsert" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HistoriasLaboralesTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\models\HistoriasLaboralesTest" file="$PROJECT_DIR$/tests/Unit/HistoriasLaboralesTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HistoriasLaboralesTest.testInsert" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\models\HistoriasLaboralesTest" file="$PROJECT_DIR$/tests/Unit/HistoriasLaboralesTest.php" method="testInsert" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.HistoriasLaboralesTest.testInsert" />
+        <item itemvalue="PHPUnit.HistoriasLaboralesTest" />
+        <item itemvalue="PHPUnit.ComprobantesTest.testInsert" />
+        <item itemvalue="PHPUnit.ComprobantesTest" />
+        <item itemvalue="PHPUnit.ArchivosTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d02f067-56e2-46f9-9b2e-033f593b95ff" name="Changes" comment="" />
+      <created>1648226023994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648226023994</updated>
+      <workItem from="1648226025205" duration="8989000" />
+      <workItem from="1648502412915" duration="6317000" />
+      <workItem from="1648561842084" duration="2252000" />
+      <workItem from="1648564179885" duration="2323000" />
+      <workItem from="1648566601058" duration="245000" />
+      <workItem from="1648566864967" duration="17000" />
+      <workItem from="1648566909253" duration="81000" />
+      <workItem from="1648567062450" duration="14962000" />
+      <workItem from="1648646963694" duration="8454000" />
+      <workItem from="1648658164342" duration="37000" />
+      <workItem from="1648658203833" duration="53000" />
+      <workItem from="1648658322067" duration="16000" />
+      <workItem from="1648658576959" duration="1615000" />
+      <workItem from="1648668878804" duration="444000" />
+      <workItem from="1648669478467" duration="3299000" />
+      <workItem from="1648672833432" duration="5169000" />
+      <workItem from="1648742907303" duration="1483000" />
+      <workItem from="1648744649307" duration="13334000" />
+      <workItem from="1648820140189" duration="22657000" />
+      <workItem from="1649424220241" duration="26195000" />
+      <workItem from="1649541759806" duration="3428000" />
+      <workItem from="1649629759075" duration="27529000" />
+      <workItem from="1649770963471" duration="11944000" />
+      <workItem from="1649791318886" duration="39486000" />
+      <workItem from="1650039797815" duration="6196000" />
+      <workItem from="1650288950079" duration="47616000" />
+      <workItem from="1652793961688" duration="11638000" />
+      <workItem from="1652815404762" duration="12533000" />
+      <workItem from="1652879687080" duration="14212000" />
+      <workItem from="1652901585877" duration="12304000" />
+      <workItem from="1652966603543" duration="18183000" />
+      <workItem from="1652993708138" duration="985000" />
+      <workItem from="1652995191455" duration="16100000" />
+      <workItem from="1653075314561" duration="26324000" />
+      <workItem from="1653312079978" duration="19981000" />
+      <workItem from="1653424730556" duration="6923000" />
+      <workItem from="1653491604169" duration="13752000" />
+      <workItem from="1653515748820" duration="3819000" />
+      <workItem from="1653527950389" duration="5378000" />
+      <workItem from="1653572378970" duration="5136000" />
+      <workItem from="1653592629921" duration="11000" />
+      <workItem from="1653596508996" duration="3493000" />
+      <workItem from="1653601701749" duration="802000" />
+      <workItem from="1653672711861" duration="9514000" />
+      <workItem from="1653776197726" duration="33278000" />
+      <workItem from="1654089754848" duration="5427000" />
+      <workItem from="1654111520892" duration="2881000" />
+      <workItem from="1654187252681" duration="6574000" />
+      <workItem from="1654607995279" duration="679000" />
+      <workItem from="1654608698343" duration="528000" />
+      <workItem from="1654609826535" duration="992000" />
+      <workItem from="1654632024301" duration="6002000" />
+      <workItem from="1654642893540" duration="132000" />
+      <workItem from="1654694349796" duration="326000" />
+      <workItem from="1654694950624" duration="611000" />
+      <workItem from="1654698210217" duration="2193000" />
+      <workItem from="1654706594739" duration="230000" />
+      <workItem from="1654715156689" duration="11000" />
+      <workItem from="1654723852492" duration="356000" />
+      <workItem from="1654802107378" duration="2233000" />
+      <workItem from="1654889909118" duration="68000" />
+      <workItem from="1655221177394" duration="3399000" />
+      <workItem from="1655226650404" duration="217000" />
+      <workItem from="1655234857354" duration="10781000" />
+      <workItem from="1655312818489" duration="1798000" />
+      <workItem from="1655322741306" duration="752000" />
+      <workItem from="1655325563695" duration="139000" />
+      <workItem from="1655328635718" duration="5546000" />
+      <workItem from="1655399241896" duration="2430000" />
+      <workItem from="1655418656299" duration="1965000" />
+      <workItem from="1655474121893" duration="837000" />
+      <workItem from="1655475286656" duration="18752000" />
+      <workItem from="1655817694393" duration="12645000" />
+      <workItem from="1655842050201" duration="411000" />
+      <workItem from="1655849932445" duration="244000" />
+      <workItem from="1655851079281" duration="1257000" />
+      <workItem from="1656102407864" duration="601000" />
+      <workItem from="1656423574055" duration="2954000" />
+      <workItem from="1656456000576" duration="1215000" />
+      <workItem from="1656595220767" duration="2279000" />
+      <workItem from="1657203492502" duration="7696000" />
+      <workItem from="1657546620214" duration="12320000" />
+      <workItem from="1657834893768" duration="1477000" />
+      <workItem from="1657891221024" duration="10628000" />
+      <workItem from="1658153805182" duration="896000" />
+      <workItem from="1658963472755" duration="2069000" />
+      <workItem from="1659710483275" duration="1333000" />
+      <workItem from="1660238426489" duration="249000" />
+      <workItem from="1660251843986" duration="3503000" />
+      <workItem from="1661289300848" duration="721000" />
+      <workItem from="1661293070576" duration="1621000" />
+      <workItem from="1661870267933" duration="2710000" />
+      <workItem from="1661963184015" duration="66000" />
+      <workItem from="1661965401794" duration="91000" />
+      <workItem from="1661965756314" duration="275000" />
+      <workItem from="1662050693658" duration="593000" />
+      <workItem from="1662059933224" duration="6659000" />
+      <workItem from="1662072402319" duration="4931000" />
+      <workItem from="1662126468876" duration="2050000" />
+      <workItem from="1662729471711" duration="145000" />
+      <workItem from="1663020953579" duration="1628000" />
+      <workItem from="1663083429288" duration="4046000" />
+      <workItem from="1663167190844" duration="86000" />
+      <workItem from="1663192479501" duration="2141000" />
+      <workItem from="1663247175175" duration="138000" />
+      <workItem from="1663260512830" duration="4950000" />
+      <workItem from="1663270667364" duration="169000" />
+      <workItem from="1663337471208" duration="4300000" />
+      <workItem from="1663355857714" duration="643000" />
+    </task>
+    <task id="LOCAL-00001" summary="Archivos del sistema del terminal avance">
+      <created>1650409312977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650409312977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Archivos del sistema del terminal avance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Archivos del sistema del terminal avance" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/Unit/ComprobantesTest.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/views/modules/archivos/edit.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Controllers/UsuariosController.php</url>
+          <line>166</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Controllers/ArchiverosController.php</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

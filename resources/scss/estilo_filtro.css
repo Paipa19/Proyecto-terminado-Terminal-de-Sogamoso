@@ -1,0 +1,6 @@
+#Table tfoot input{
+    width: 100% !important;
+}
+#Table tfoot {
+    display: table-header-group !important;
+}
