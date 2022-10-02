@@ -6,7 +6,7 @@ programas que tienes que instalar en la pc, y pasos de instalación del software
 
 ## Descripción 
 Este sistema esta diseñado con el fin de gestionar los diferentes aspectos de Archivo Central
-para la empresa Terminal de tranportes de Sogamoso LTDA.
+para la empresa Terminal de transportes de Sogamoso LTDA.
 
 ### Requisitos
 Para su correcto funcionamiento se requiere tener instaladas las siguientes herramientas:
